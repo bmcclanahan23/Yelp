@@ -1,5 +1,5 @@
 business_spectral_clustering.py - Script produces the following files. In each file name below the word
-city can be replaced with an actual city name (e.g. Las Vegas)
+"city" can be replaced with an actual city name (e.g. Las Vegas)
     spectral_clustering_topics_city.csv - gives the top ten words from each cluster 
     from spectral clustering
     word_inclusion_file_city.csv - gives the fraction of businesses in a cluster that 
